@@ -17,7 +17,7 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 # contact info
 address = "The Netherlands"
 twitter = "https://twitter.com/SpyroSkylander_"
-twitter-user = "SpyroSkylander_"
+twitteruser = "SpyroSkylander_"
 email = "joshuaslui0203@gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
