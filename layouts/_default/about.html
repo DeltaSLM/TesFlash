@@ -11,7 +11,7 @@
         <!-- image CDN -->
         {{ if hasPrefix $imagePath "http" }}
         <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Title }}"
-          class="img-fluid mb-5 w-100 rounded-4">
+          class="img-fluid mb-5 w-100 rounded-4" height=200px>
         {{ else }}
         <!-- /image cdn -->
 
