@@ -45,7 +45,7 @@
       {{ with site.Params.twitter }}
       <div class="col-lg-4">
         <div class="card text-center">
-          <a href="tel:{{.}}"><i class="fas fa-user text-primary"></i>{{.}}</a>
+          <a href="{{.}}"><i class="fas fa-user text-primary"></i>{{ with site.Params.twitter-user }}</a>
         </div>
       </div>
       {{ end }}
