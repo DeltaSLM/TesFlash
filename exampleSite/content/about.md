@@ -1,43 +1,33 @@
 ---
-title: "About The Author"
-description: "this is meta-description"
-image: "images/author.png"
+title: "About Spyro"
+description: "Spyro's about page"
 layout: "about"
 draft: false
 
 # education
 education:
-  enable: true
+  enable: false
   title: "Formal Education"
   education_list:
-  - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Northeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Easteast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
+  - name: ""
+    content: ""
 
 # experience
 experience:
   enable: true
   title: "Work Experience"
   experience_list:
-  - "Best Writer Award"
-  - "Best New Newel"
-  - "Best Book"
-  - "Best Article"
-  - "Best New Newel"
-  - "Best New Newel"
-  - "Best Book"
-  - "Best Article"
-  - "Best New Newel"
-  - "Best Book"
+  - "Founder, executive owner [PsychOps Studios](https://psychops.eu)"
+  - "Developer [PsychOps Studios](https://psychops.eu)"
+  - "Moderator & Helper [Aternos](https://aternos.org)"
+  - "Manager @ [Dredd](https://dreddbot.xyz)"
+  - "CHRO Hosting HQ LLC"
+  - "HR Hosting HQ LLC"
+  - "Customer Support Hosting HQ LLC"
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus  ndisse.  morbi quis nunc.
+Hi! I'm Spyro. I live in The Netherlands and am enthusiastic about researching topics such as psychology, vehicles, space exploration and more! In my journey of understanding these, and many other intriguing topics i wanted to share my experiences, as well as have a central place for guides, information and more made by me explicitly. I of course can't always promise that information on this blog is accurate, but i will always try my best to make it as accurate as possible.
 
-
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse.  morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis  ndisse.  morbi quis nunc, at arcu quam facilisi  ndisse.  morbi quis nunc, at arcu quam facilisi
+#### Enough about the blog! Some things about myself
+I am currently 16 and have lived in The Netherlands since my birth. I have lived a relatively normal life like anyone, but have always tried to stay ahead and teach myself new things such as programming. From a young age i've taken interest in helping people, programming and generally doing good and, or helpful things for others. I speak dutch fluently and taught myself fluent english! 
