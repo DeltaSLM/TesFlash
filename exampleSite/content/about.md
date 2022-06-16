@@ -1,8 +1,7 @@
-<img src="drawing.jpg" alt="drawing" width="200"/>
-
 ---
 title: "About Spyro"
 description: "Spyro's about page"
+image: "images/SpyChibi.png"
 layout: "about"
 draft: false
 
