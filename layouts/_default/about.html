@@ -11,7 +11,7 @@
         <!-- image CDN -->
         {{ if hasPrefix $imagePath "http" }}
         <img loading="lazy" decoding="async" src="{{ $imagePath | safeURL }}" alt="{{ .Title }}"
-          class="img-fluid mb-5 w-100 rounded-4" height=200px>
+          class="img-fluid mb-5 w-100 rounded-4">
         {{ else }}
         <!-- /image cdn -->
 
@@ -29,7 +29,7 @@
           <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 992px)">
           <source srcset="{{ $imageXL.RelPermalink }}">
           <img loading="lazy" decoding="async" class="img-fluid mb-5 w-100 rounded-4" src="{{$imageFallback.RelPermalink}}"
-            alt="{{.Title}}" width="{{$image.Width}}" height="200px">
+            alt="{{.Title}}" width="{{$image.Width}}" height="{{$image.Height}}">
         </picture>
         {{ end }}
         <!-- /image processing for multiple device -->
