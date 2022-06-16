@@ -1,7 +1,7 @@
 ---
 title: "About Spyro"
 description: "Spyro's about page"
-imageMD: "images/SpyChibi.png"
+image: "images/SpyChibi.png"
 layout: "about"
 draft: false
 
