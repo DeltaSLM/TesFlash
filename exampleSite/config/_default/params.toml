@@ -17,6 +17,7 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 # contact info
 address = "The Netherlands"
 twitter = "https://twitter.com/SpyroSkylander_"
+twitter-user = "SpyroSkylander_"
 email = "joshuaslui0203@gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -47,11 +48,11 @@ preloader = "" # use jpg, png, svg or gif format.
 [banner]
 enable = true
 title_large = "Welcome **!**"
-title_small = "to Jhon Bravo Blog"
+title_small = "to TesFlash"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
-content = "Are Developer and recently started your own business Already made website to ensure presence wants to develop."
-button_label = "Know About Me"
+content = "A blog about virtually anything relevant today, by Spyro, for everyone."
+button_label = "About Me"
 button_link = "about/"
 
 # Advertise
@@ -89,7 +90,7 @@ link = "#"
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/SpyroSkylander_"
 
 [[social]]
 title = "instagram"
@@ -99,7 +100,7 @@ link = "#"
 [[social]]
 title = "github"
 icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://github.com/DeltaSLM"
 
 [[social]]
 title = "linkedin"
