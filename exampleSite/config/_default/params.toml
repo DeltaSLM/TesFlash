@@ -11,9 +11,9 @@ logo_text = "Boilerplate"
 # navbar fixed to top
 navbar_fixed = true
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+description = "Spyro's blog"
+author = "Spyro"
+image = "images/SpyChibi.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "The Netherlands"
 twitter = "https://twitter.com/SpyroSkylander_"
