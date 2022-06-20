@@ -20,8 +20,5 @@ Our main suggestion would simply be to not use cracked, and to **buy the game**.
 #### The consequences
 Will your local authorities arrest you for using tlauncher? No, but it's still illegal and against Mojang's EULA. Another issue with cracked launchers such as tlauncher is that they often contain malware, making them dangerous to use. In general using launchers that allow accounts without authentication is shady, and highly recommended against.
 
-#### So why does the online-mode option exist?
+#### So what is online-mode really for?
 > Server checks connecting players against Minecraft account database. Set this to false only if the player's server is not connected to the Internet. Hackers with fake accounts can connect if this is set to false! If minecraft.net is down or inaccessible, no players can connect if this is set to true. Setting this variable to off purposely is called "cracking" a server, and servers that are present with online mode off are called "cracked" servers, allowing players with unlicensed copies of Minecraft to join.
-
-- true - Enabled. The server assumes it has an Internet connection and checks every connecting player.
-- false - Disabled. The server does not attempt to check connecting players.
