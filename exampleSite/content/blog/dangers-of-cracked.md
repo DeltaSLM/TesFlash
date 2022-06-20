@@ -8,7 +8,7 @@ type: "featured" # available types: [featured/regular]
 draft: false
 ---
 
-Everyone is familiar with the cracked option (or rather online-mode) offered on server hosts as well as the cracked launchers who need this. However, most people are not aware of the consequences, risks and issues behind using cracked. Additionally, people seem to have no awareness of the original reason behind this option. This is what i plan to discuss in this blog post today.
+Everyone is familiar with the cracked option (or rather offline-mode) offered on server hosts as well as the cracked launchers who need this. However, most people are not aware of the consequences, risks and issues behind using cracked. Additionally, people seem to have no awareness of the original reason behind this option. This is what i plan to discuss in this blog post today.
 
 #### The risks
 Cracked comes with risks, a variety of them. One major issue that i very often see is that cracked servers or accounts get "hacked". This is however not the correct term, rather the accounts get hijacked, and the servers get exploited. With cracked enabled, accounts are not authenticated through Mojang's authentication servers; meaning anyone can just grab any name and join a cracked server with it. This also includes usernames of people with OP. It's important that when you do have to use cracked, to make sure it's secure by installing log-in plugins such as FastLogin.
