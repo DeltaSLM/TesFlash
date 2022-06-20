@@ -22,4 +22,5 @@ Will your local authorities arrest you for using tlauncher? No, but it's still i
 
 #### So what is online-mode really for?
 > Server checks connecting players against Minecraft account database. Set this to false only if the player's server is not connected to the Internet. Hackers with fake accounts can connect if this is set to false! If minecraft.net is down or inaccessible, no players can connect if this is set to true. Setting this variable to off purposely is called "cracking" a server, and servers that are present with online mode off are called "cracked" servers, allowing players with unlicensed copies of Minecraft to join.
+
 *source: https://minecraft.fandom.com/wiki/Server.properties*
