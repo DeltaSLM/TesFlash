@@ -2,14 +2,14 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.png"
+logo = "images/SpyChibi.png"
 # use `x` with logo_width, example: "100x".
 # Note: logo_width is not work with .svg file
-logo_width = "150x"
+logo_width = "50x"
 # logo text will only show when logo is missing.
 logo_text = "Boilerplate"
 # navbar fixed to top
-navbar_fixed = false
+navbar_fixed = true
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Themefisher"
@@ -77,8 +77,8 @@ sidebar = ["about", "categories", "recent-post"]
 [subscription]
 enable = false
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+# mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+# mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 
 ############################# social site ########################
