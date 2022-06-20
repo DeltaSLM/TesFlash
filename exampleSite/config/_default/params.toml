@@ -5,7 +5,7 @@ favicon = "images/favicon.png"
 logo = "images/SpyChibi.png"
 # use `x` with logo_width, example: "100x".
 # Note: logo_width is not work with .svg file
-logo_width = "25x"
+logo_width = "50x"
 # logo text will only show when logo is missing.
 logo_text = "Boilerplate"
 # navbar fixed to top
