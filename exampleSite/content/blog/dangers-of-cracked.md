@@ -1,7 +1,7 @@
 ---
 title: "Why you shouldn't use cracked"
 description: "Why cracked is not a good idea"
-image: "images/post/minecraft.png"
+image: "https://www.minecraft.net/content/dam/minecraft/home/home-hero-1200x600.jpg"
 date: 2022-06-21T00:55:25+02:00
 categories: ["Minecraft"]
 type: "featured" # available types: [featured/regular]
