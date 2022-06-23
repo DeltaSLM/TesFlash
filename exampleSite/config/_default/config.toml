@@ -1,6 +1,6 @@
 baseURL = "https://spyro.tk"
 disableLanguages = ["fr"]
-disqusShortname = "themefisher-template"
+disqusShortname = "tesflash"
 googleAnalytics = ""
 languageCode = "en-us"
 languageName = "En"
