@@ -91,3 +91,8 @@ link = "https://twitter.com/SpyroSkylander_"
 title = "github"
 icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "https://github.com/DeltaSLM"
+
+[[social]]
+title = "discord"
+icon = "fab fa-discord" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://discord.gg/EYktmXfqCZ"
